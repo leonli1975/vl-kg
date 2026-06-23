@@ -1,0 +1,20 @@
+data/raw/
+data/motif_seed_state.json
+data/extracted/
+src/enrich_motifs_ds.py
+
+# LaTeX temporary files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.dvi
+paper/*.nav
+paper/*.snm
+paper/*.vrb
+paper/*.pdf
